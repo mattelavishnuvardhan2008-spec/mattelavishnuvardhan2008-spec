@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+production-grade+web+products+%E2%9A%A1;Shipping+with+AI-native+workflows+%2B+Claude+Code;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Tailwind" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+production-grade+web+products+%E2%9A%A1;Crafting+with+AI+-+workflows+%2B+CLAUDE;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Tailwind" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-##  ABOUT ME
+## ABOUT ME 
 
 ```js
 const vishnu = {
@@ -30,7 +30,7 @@ const vishnu = {
 
 ---
 
-## 💻TECH STACK
+## 💻 TECH STACK 
 
 <table width="100%">
 <tr>
@@ -75,16 +75,16 @@ const vishnu = {
 
 ---
 
-## 🤖 AI - WORKFLOW
+## 🤖  AI - Workflow
 
 <img src="https://img.shields.io/badge/CLAUDE-CC785C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/POWERED%20BY%20ANTHROPIC-000000?style=for-the-badge" />
 
-> I Make faster moves by pairing with **Claude ** as a development partner for re-enforcing code, architecture decisions, code review, and prototyping.
+> I Make faster moves by pairing with **Claude ** as a development partner for re-enforcing, architecture decisions, code review, and prototyping.
 
 ---
 
-## 📈 Featured Projects
+## 📈  Featured Projects
 
 <details open>
 <summary><b>💻 Vishnu Vardhan Portfolio</b></summary>
@@ -104,7 +104,7 @@ Another one of my projects.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattelavishnuvardhan2008-spec&show_icons=true&theme=tokyonight" />
@@ -115,7 +115,7 @@ Another one of my projects.
 
 ---
 
-## 🤝 Let's CONNECT 
+## 🤝  Let's CONNECT 
 
 <p align="center">
   <a href="https://vishnuvardhanportfolio-nine.vercel.app"><img src="https://img.shields.io/badge/▲%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
