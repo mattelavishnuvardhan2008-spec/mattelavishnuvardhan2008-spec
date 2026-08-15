@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 whoami
+## 👋 WHO AM I
 
 ```js
 const vishnu = {
@@ -30,7 +30,7 @@ const vishnu = {
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 <table width="100%">
 <tr>
@@ -115,7 +115,7 @@ Another one of my projects.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's CONNECT
 
 <p align="center">
   <a href="https://vishnuvardhanportfolio-nine.vercel.app"><img src="https://img.shields.io/badge/▲%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
