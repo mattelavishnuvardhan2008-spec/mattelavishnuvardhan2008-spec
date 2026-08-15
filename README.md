@@ -3,16 +3,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelancer%20%26%20Web%20Developer-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-KARIMNAGAR,%20INDIA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mattelavishnuvardhan2008-spec?label=FOLLOWERS&style=for-the-badge&color=ff69b4" />
 </p>
 
-<h3 align="center">💻 Developer • 🚀 Builder • 📚 Learner</h3>
+<h3 align="center">💻 Web Developer • 🎨 Designer • 📚 Curious Learner</h3>
 
 ---
 
-## 👋WHO AM I
+## 👋 whoami
 
 ```js
 const vishnu = {
