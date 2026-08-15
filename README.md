@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Tailwind;Shipping+with+AI-native+workflows+%2B+Claude+Code;I+build+production-grade+web+products+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+production-grade+web+products+%E2%9A%A1;Shipping+with+AI-native+workflows+%2B+Claude+Code;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Tailwind" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 WHO AM I
+## 👋 whoami
 
 ```js
 const vishnu = {
