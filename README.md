@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=I+build+production-grade+web+products+%E2%9A%A1;Shipping+with+AI-native+workflows+%2B+Claude+Code;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Tailwind" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Freelancer%20%26%20Web%20Developer-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-KARIMNAGAR,%20TELANGANA,%20INDIA-blue?style=for-the-badge" />
 </p>
