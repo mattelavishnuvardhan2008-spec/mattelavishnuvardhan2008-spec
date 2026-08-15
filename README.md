@@ -11,13 +11,13 @@
 
 ---
 
-## 👋 WHO AM I
+## 👋 whoami
 
 ```js
 const vishnu = {
   name: "Mattela Vishnu Vardhan",
   role: "Developer & Student",
-  location: "Karimnagar, India",
+  location: "Karimnagar, Telangana, India",
   personality: "Ambivert",
   currentFocus: "Learning full-stack development",
   funFact: "I love building things and breaking them to learn how they work"
