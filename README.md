@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Based%20in-KARIMNAGAR,%20INDIA-blue?style=for-the-badge" />
 </p>
 
-<h3 align="center">💻 Web Developer • 🎨 Designer • 📚 Curious Learner</h3>
+<h3 align="center">💻 Web Developer • 🚀 Builder • 📚 Curious Learner</h3>
 
 ---
 
-## 👋 WHO AM I
+## 👋 whoami
 
 ```js
 const vishnu = {
