@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 whoami
+## 👋 WHO AM I
 
 ```js
 const vishnu = {
