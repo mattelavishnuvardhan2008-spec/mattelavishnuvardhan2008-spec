@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mattela%20Vishnu%20Vardhan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:93C5FD&height=200&section=header&text=Mattela%20Vishnu%20Vardhan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 WHO AM I
+##  ABOUT ME
 
 ```js
 const vishnu = {
@@ -30,7 +30,7 @@ const vishnu = {
 
 ---
 
-## TECH STACK
+## 💻TECH STACK
 
 <table width="100%">
 <tr>
@@ -75,19 +75,19 @@ const vishnu = {
 
 ---
 
-## 🤖 AI-Native Workflow
+## 🤖 AI - WORKFLOW
 
-<img src="https://img.shields.io/badge/CLAUDE%20CODE-CC785C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLAUDE-CC785C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/POWERED%20BY%20ANTHROPIC-000000?style=for-the-badge" />
 
-> I ship faster by pairing with **Claude Code** as a development partner — for refactors, architecture decisions, code review, and rapid prototyping.
+> I Make faster moves by pairing with **Claude ** as a development partner for re-enforcing code, architecture decisions, code review, and prototyping.
 
 ---
 
-## 📌 Featured Projects
+## 📈 Featured Projects
 
 <details open>
-<summary><b>🚀 Vishnu Vardhan Portfolio</b></summary>
+<summary><b>💻 Vishnu Vardhan Portfolio</b></summary>
 <br>
 My personal portfolio site.
 <br><br>
@@ -95,7 +95,7 @@ My personal portfolio site.
 </details>
 
 <details open>
-<summary><b>🚀 My Second Repository 2026</b></summary>
+<summary><b>💻 My Second Repository 2026</b></summary>
 <br>
 Another one of my projects.
 <br><br>
@@ -115,7 +115,7 @@ Another one of my projects.
 
 ---
 
-## 🤝 Let's CONNECT
+## 🤝 Let's CONNECT 
 
 <p align="center">
   <a href="https://vishnuvardhanportfolio-nine.vercel.app"><img src="https://img.shields.io/badge/▲%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -123,6 +123,6 @@ Another one of my projects.
   <a href="https://github.com/mattelavishnuvardhan2008-spec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ If my work resonates with you, drop a follow — let's build something great together.</i></p>
+<p align="center"><i>⭐ If my work makes you happy, drop an email — let's build something great together.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:93C5FD&height=100&section=footer&animation=fadeIn" />
