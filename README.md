@@ -75,7 +75,7 @@ const vishnu = {
 
 ---
 
-## 🤖  AI - Workflow
+## 🤖  AI - WORKFLOW
 
 <img src="https://img.shields.io/badge/CLAUDE-CC785C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/POWERED%20BY%20ANTHROPIC-000000?style=for-the-badge" />
